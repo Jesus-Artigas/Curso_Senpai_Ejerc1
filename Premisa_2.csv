@@ -1,0 +1,18 @@
+id,model_id,model_name,model_base_price,brand_id
+0,1,The Blonde,23000,1
+1,2,The Brunette,25000,1
+2,3,The Red Head,29000,1
+3,4,Hat,22000,2
+4,5,Sweater,25000,2
+5,6,T-Shirt,27000,2
+6,7,Orange,15000,3
+7,8,Blue,12000,3
+8,9,Green,17000,3
+9,10,LaFerrari,125000,4
+10,11,450,75000,4
+11,12,F12 Berlinetta,110000,4
+12,13,F40,100000,4
+13,14,Extra,30000,5
+14,15,Too Much,35000,5
+15,16,Beats,24000,6
+16,17,Bars,35000,6
